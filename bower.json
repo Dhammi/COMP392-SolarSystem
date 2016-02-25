@@ -1,0 +1,25 @@
+{
+  "name": "comp392-SolarSystem",
+  "authors": [
+    "Vineet Dhammi <vineet_nishchay@yahoo.com>"
+  ],
+  "description": "COMP392-SolarSystem for Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/Dhammi/COMP392-SolarSystem.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
